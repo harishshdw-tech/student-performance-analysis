@@ -64,5 +64,4 @@ These visualizations make the comparison and interpretation of student data easi
 - Anitha, Rahul, Manoj and Karthik require additional academic attention.
 9. Conclusion
 The Student Performance Analysis case study demonstrates how Google Sheets can be used effectively to organize, analyse and visualize student academic data. By applying spreadsheet functions, sorting, filtering, conditional formatting and charts, student performance and attendance patterns can be understood easily. The analysis identifies the IT department as the highest-performing department and highlights students who require additional academic support. Overall, this study shows how spreadsheet tools help simplify data analysis and support better academic decision-making.
-10. Google Sheets Sharing Link
   
