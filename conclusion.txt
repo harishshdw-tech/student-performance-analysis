@@ -1,0 +1,30 @@
+Part-E:Interpretation
+
+1.Which department has the highest average marks?
+Answer:IT department has the highest average marks of 78.
+
+2.Who are thr top three performers?
+Answer:
+  1.Divya-94 marks.
+  2.Meena-91 marks.
+  3.vijay-89 marks.
+
+3.How many students have attendance below 75%
+Answer:2 students.
+  1.Rahul-70%.
+  2.Anitha-68%.
+4.What is the relationship between attendance and marks?
+Answer:
+      Attendance and marks have a positive relationship.Students with higher attendance generally achieve higher 
+attendance generally achieve higher marks.However attendance alone does not determine academic performance.
+5.Which students require academic support?
+Answer:
+  1.Anitha-48 marks and 68% attendance.
+  2.Rahul-58 marks and 70%  attendance.
+  3.Manoj-55 marks and 75%  attendance.
+  4.Karthik-65 marks and 78% attendanc
+
+
+
+conclusion
+           The student performance analysis project helps to evaluate student's academic performance using google sheets.by using formulas and functions,we can calculate total marks,average marks,highest marks,and lowest marks easily.Sorting,filtering,and conditional formatting help to identify top-performing students and students who need improvement.Charts and graphs make the data easy to understand.department -wise analysis helps to compare the performance of different department.It also helps teachers understand student's strengths and weakness.Attendance details help to identify students who need to improve their regularity.This project reduces manual calculations and saves time.It also improves accuracy in analysing student records.The visual representation of data makes comparison easier.Teachers can use these results to provide additional support to student who need it.

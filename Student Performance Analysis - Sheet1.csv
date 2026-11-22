@@ -1,0 +1,13 @@
+Student ID,Name,Department,Attendance %,Marks,Result,Attendance Status,Needs Support
+S101,Arun,AIDS,92,88,Pass,OK,No
+S102,Priya,CSE,85,76,Pass,OK,No
+S103,Karthik,IT,78,65,Pass,OK,No
+S104,Divya,AIDS,95,94,Pass,OK,No
+S105,Nisha,ECE,88,82,Pass,OK,No
+S106,Rahul,CSE,70,58,Pass,Below 75%,Yes
+S107,Meena,IT,90,91,Pass,OK,No
+S108,Sanjay,ECE,80,73,Pass,OK,No
+S109,Anitha,AIDS,68,48,Fail,Below 75%,Yes
+S110,Vijay,CSE,96,89,Pass,OK,No
+S111,Deepa,IT,83,78,Pass,OK,No
+S112,Manoj,ECE,75,55,Pass,OK,Yes
